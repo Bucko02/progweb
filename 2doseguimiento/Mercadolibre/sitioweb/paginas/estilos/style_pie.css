@@ -1,0 +1,27 @@
+/* Configura el cuerpo y html para ocupar toda la ventana */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Contenedor principal que contiene el contenido y pie de página */
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+}
+
+/* Contenido para que crezca y llene el espacio */
+.contenido {
+    flex: 1;
+}
+
+/* Pie de página */
+.piepag {
+    background-color: #FFE600;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}

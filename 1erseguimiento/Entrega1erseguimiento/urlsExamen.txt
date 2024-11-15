@@ -1,0 +1,11 @@
+URL PARA ACCEDER A LA PAGINA miempresa/CalcVolPiramide.php
+
+http://20200835darioitpprogweb.rf.gd/progweb/1erseguimiento/miempresa/CalVolPiramide.php
+
+URL PARA ACCEDER A LA PAGINA miempresa/layoutEmpresa.php
+http://20200835darioitpprogweb.rf.gd/progweb/1erseguimiento/miempresa/layoutEmpresa.php
+
+
+URL PARA EJECUTAR EL SERVICIO
+
+http://20200835darioitpprogweb.rf.gd/progweb/1erseguimiento/miempresa/serviciosweb/servicio.php
